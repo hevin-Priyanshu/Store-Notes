@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Store Notes Using Java</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="submit">Submit</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="delete_btn">Delete</string>
+    <string name="notes">Your Notes</string>
+    <string name="your_name">Your Name</string>
+</resources>
